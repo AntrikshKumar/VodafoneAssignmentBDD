@@ -41,7 +41,3 @@ Following tools and practices were used and followed while developing the framew
 
 - Run the project as Maven test (Open pom.xml and Run as mvn clean test).
 - Report can be viewed by accessing the index.html file (Path: Vodafone1/target/site/cucumber-pretty/index.html).
-
-
-- Below is the snapshot of the feature file.
-- ![screenshot](https://cloud.githubusercontent.com/assets/20948190/19837728/afbf9130-9f24-11e6-92a6-a5bf4ad8d04d.jpg)
