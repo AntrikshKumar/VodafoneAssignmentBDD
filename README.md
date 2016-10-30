@@ -1,11 +1,11 @@
 #VodafoneAssignmentBDD 
 
-This readme is about the Java/selenium test case created to check the Login functionality on the MyVodafone webpage using Cucumber and Maven.
+This readme is about the framework being developed to perform end to end testing of existing features of Vodafone NZ website and can also be extended to perform Behaviour Driven Development while adding new functionalities to the website.
 
 #Repository
 
-This repository consists of the application code kept in 'src/test/java' folder. The 'Features' folder includes the BDD scenario written using Gherkin.
-Files included in the repository:
+This repository consists of the framework and a single feature file to test the login functionality of Vodafone website.The feature file is written in Gherkin language and placed in the 'Features' folder.
+Following is the project file structure:
 - Src/test/java folder
     - config
         * config.properties
@@ -21,12 +21,13 @@ Files included in the repository:
     - Login.feature
 - pom.xml
 
-The below softwares were used to complete this task:
-- Eclipse IDE
-- Java
-- Cucumber
-- Selenium WebDriver
-- Maven
+Following tools and practices were used and followed while developing the framework:
+- Editor: Eclipse IDE
+- Programming Language: Java
+- Process/Methodologies: Behaviour Driven Development, Page Object Model, Page Factory
+- Tools: Cucumber, Gherkin
+- APIs: Selenium WebDriver
+- Project Management Tool: Maven
 
 #Pre Conditions
 
