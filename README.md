@@ -40,6 +40,9 @@ The below softwares were used to complete this task:
 
 - Once all the installations are complete, a Maven project is created in Eclipse and the project consists of 'src' folder and pom.xml file.
 - Under the src/test/java package, the actual code is written. Additional features such as “page objects” and “configuration file” are used for better maintenance of the project.
-- The feature file is placed under the “Features” folder. The feature file is the BDD scenario script written using Gherkin.
--	The pom.xml is the file which is used to execute the scripts. The dependencies are added in the pom.xml file to help in the execution.
+- The feature file is placed under the “Features” folder. The feature file is the BDD scenario script written using Gherkin. Below is the snapshot of the feature file.
+
+![screenshot](https://cloud.githubusercontent.com/assets/20948190/19837728/afbf9130-9f24-11e6-92a6-a5bf4ad8d04d.jpg)
+
+- The pom.xml is the file which is used to execute the scripts. The dependencies are added in the pom.xml file to help in the execution.
 - Results can be viewed by opening the index.html file (Path: Vodafone1/target/site/cucumber-pretty/index.html)
