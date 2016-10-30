@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="48.122696">
+<testcase classname="Login Functionality" name="User should not be able to login with invalid credentials" time="48.122696">
+<system-out><![CDATA[Given User is on Vodafone home page.........................................passed
+When user tries to login with invalid credentials...........................passed
+Then login should be unsuccessful...........................................passed
+And prompt following message to user........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
